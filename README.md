@@ -29,7 +29,15 @@ a clear view of key lending metrics and help identify high-risk segments.
 
 ✅	Power BI Dashboard: Interactive visuals showing customer count, total loan amount, average interest rate, and revolving balance by state and verification status.
 
+<img width="1119" height="630" alt="Image" src="https://github.com/user-attachments/assets/aa1ee7eb-c1e3-410f-ae0c-238d3390f6a4" />
+
+--
+
 ✅	Tableau Dashboard: Visual exploration of applications, funded amounts, DTI, and loan purposes with state-level insights.
+
+<img width="1645" height="854" alt="Image" src="https://github.com/user-attachments/assets/773dc604-32c4-4dcc-921c-9ec8a9f59447" />
+
+--
 
 ## 🎯 Challenges:
 
