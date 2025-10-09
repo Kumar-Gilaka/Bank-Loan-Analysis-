@@ -23,6 +23,10 @@ a clear view of key lending metrics and help identify high-risk segments.
 
 ✅	Excel Dashboard: Summarizes key metrics like loan amounts, interest rates, and repayment trends using dynamic charts.
 
+<img width="1859" height="751" alt="Image" src="https://github.com/user-attachments/assets/8eb108d7-ba98-42c8-926f-0142e8d25319" />
+
+--
+
 ✅	Power BI Dashboard: Interactive visuals showing customer count, total loan amount, average interest rate, and revolving balance by state and verification status.
 
 ✅	Tableau Dashboard: Visual exploration of applications, funded amounts, DTI, and loan purposes with state-level insights.
